@@ -45,3 +45,14 @@ This project is a Python-based budgeting application designed to help elderly us
 - Researched existing Python code base (AgeLink)
 - Analyzed and documented findings in projectroadmap.md
 - Began planning project structure
+
+### Sprint 2
+- Began development of the Python budgeting application
+- Implemented user input for monthly income
+- Created a loop to allow users to enter multiple expenses
+- Stored expense data in a list for calculations
+- Calculated total expenses and remaining balance
+- Improved output formatting for better readability
+- Added a warning message when expenses exceed income
+- Made multiple commits to GitHub with clear and specific messages
+- Updated projectroadmap.md to track completed and upcoming tasks
