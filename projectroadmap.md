@@ -47,3 +47,26 @@ I reviewed the structure of the application and attempted to understand how it w
 - build income and expense tracking
 - add automatic balance calculations
 - keep the program easy to use and readable
+
+- # Project Roadmap - Budgeting App
+
+## Sprint 1
+- [x] Define project idea
+- [x] Identify target users as elderly adults
+- [x] Outline the main purpose of the application
+
+## Sprint 2
+- [x] Create the main Python file
+- [x] Add monthly income input
+- [x] Add expense input
+- [x] Allow user to enter multiple expenses
+- [x] Store expenses in a list
+- [x] Calculate total expenses
+- [x] Calculate remaining balance
+- [x] Test the basic program
+
+## Emerging Tasks
+- [ ] Add expense categories
+- [ ] Improve error handling
+- [ ] Make the output easier to read
+- [ ] Create functions to organize the code
