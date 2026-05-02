@@ -64,6 +64,29 @@ I reviewed the structure of the application and attempted to understand how it w
 - [x] Calculate total expenses
 - [x] Calculate remaining balance
 - [x] Test the basic program
+## Sprint 3 Progress
+
+During Sprint 3, I continued developing my budgeting application for elderly users by refining the structure and planning how the program will function in Python. I focused on making the program simple, clear, and useful for older adults.
+
+I worked on budgeting logic that includes monthly income, categorized expenses, expense purposes, total expenses, remaining balance, and a simple alert system for low balances or overspending.
+
+I also created a PowerPoint splash screen to introduce the project to non-technical stakeholders. The slide includes the project title, team member, tagline, project overview, and a visual example of the budgeting concept.
+
+## Scope Expansion
+
+To add more scope to the project, I included:
+- categorized expenses
+- fixed, variable, and essential expense types
+- explanations for why each expense matters
+- a remaining balance calculation
+- a simple budget health alert
+
+## Next Steps
+
+- Continue coding the full Python program
+- Improve user input for income and expenses
+- Test the budget alert system
+- Make the output easier for elderly users to read
 
 ## Emerging Tasks
 - [ ] Add expense categories
